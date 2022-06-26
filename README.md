@@ -1,7 +1,7 @@
 # IJ.START.CANON
 
 
-	[![ij.start.canon](Get-Started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+	[![ij.start.canon](get-started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
 
 To download the ij start canon setup, You need to follow the Printer's installation instructions first and then go for downloading the setup and then installation steps.
